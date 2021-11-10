@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nick Seletto
+- 👀 I’m interested in all sports but mainly AFL and Basketball, I love getting outdoors and am passionate about learning new things.
+- 🌱 I’m currently learning about data science techniques and models and am hoping to land a job in this space.
+- 📫 You can reach me via email: nseletto@yahoo.com.au
